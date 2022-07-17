@@ -42,16 +42,10 @@ The purpose of this project was to assess investments in different charities usi
 	
 	- Target model performance
 		- Initial performance 72.5% 
-		![This is an image](https://github.com/cwilkis/Neural_Network_Charity_Analysis/blob/main/Images/Initial%20Build.png)
-
 		- Optimization Attemp 1 63.1% 
-		![This is an image](https://github.com/cwilkis/Neural_Network_Charity_Analysis/blob/main/Images/Optimization%201.png)
-
 		- Optimization Attempt 2 72.6%
-		![This is an image](https://github.com/cwilkis/Neural_Network_Charity_Analysis/blob/main/Images/Optimization%202.png)
-
 		- Optimization Attempt 3 78.1%
-		![This is an image](https://github.com/cwilkis/Neural_Network_Charity_Analysis/blob/main/Images/Optimization%203.png)
+		
 
 	- Steps taken to increase model performance
 		
